@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samibentaarit&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ![samibentaarit's GitHub stats](https://github-readme-stats.vercel.app/api?username=samibentaarit&show_icons=true&theme=radical&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samibentaarit&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
