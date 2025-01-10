@@ -2,6 +2,8 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=samibentaarit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+    [![wakatime](https://wakatime.com/badge/user/7eca2988-3e2f-4148-a62c-1d07abe2995e.svg)](https://wakatime.com/@7eca2988-3e2f-4148-a62c-1d07abe2995e)
+
 </p>
 
 <!--
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
 ![samibentaarit's GitHub stats](https://github-readme-stats.vercel.app/api?username=samibentaarit&show_icons=true&theme=radical&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samibentaarit&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/018ba1c9-f57d-4157-9183-043412b73def.svg)](https://wakatime.com/@018ba1c9-f57d-4157-9183-043412b73def)
