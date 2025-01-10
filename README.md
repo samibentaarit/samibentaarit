@@ -2,8 +2,7 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=samibentaarit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-    [![wakatime](https://wakatime.com/badge/user/7eca2988-3e2f-4148-a62c-1d07abe2995e.svg)](https://wakatime.com/@7eca2988-3e2f-4148-a62c-1d07abe2995e)
-
+<a href="https://wakatime.com/@7eca2988-3e2f-4148-a62c-1d07abe2995e"><img src="https://wakatime.com/badge/user/7eca2988-3e2f-4148-a62c-1d07abe2995e.svg" alt="Total time coded since Jan 1 2025" /></a>
 </p>
 
 <!--
