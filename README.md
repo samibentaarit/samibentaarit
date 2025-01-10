@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![samibentaarit's GitHub stats](https://github-readme-stats.vercel.app/api?username=samibentaarit&show_icons=true&theme=radical&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samibentaarit&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/018ba1c9-f57d-4157-9183-043412b73def.svg)](https://wakatime.com/@018ba1c9-f57d-4157-9183-043412b73def)
