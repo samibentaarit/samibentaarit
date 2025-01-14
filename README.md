@@ -5,6 +5,7 @@
 <a href="https://wakatime.com/@7eca2988-3e2f-4148-a62c-1d07abe2995e"><img src="https://wakatime.com/badge/user/7eca2988-3e2f-4148-a62c-1d07abe2995e.svg" alt="Total time coded since Jan 1 2025" /></a>
 </p>
 
+
 <!--
 **samibentaarit/samibentaarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ## 📊 GitHub Stats
 
